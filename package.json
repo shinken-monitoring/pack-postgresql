@@ -1,0 +1,27 @@
+{
+	"name": "postgresql",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/shinken-monitoring/pack-postgresql",
+	"author": "Jean Gabes",
+	"description": "PostgreSQL database checks, like connected users, locks or data size",
+	"contributors": [
+	  {
+		"name": "Jean Gabes",
+		"email": "naparuba@gmail.com"
+	  },
+	  {
+		"name": "Imrane Dessai",
+		"email": "dessai.imrane@gmail.com"
+	  } 
+	],
+	"repository": "https://github.com/shinken-monitoring/pack-postgresql",
+	"keywords": [
+	  "pack",
+	  
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
