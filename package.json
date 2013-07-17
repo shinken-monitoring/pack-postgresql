@@ -18,7 +18,8 @@
 	"repository": "https://github.com/shinken-monitoring/pack-postgresql",
 	"keywords": [
 	  "pack",
-	  
+	  "database",
+	  "postgresql"
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
